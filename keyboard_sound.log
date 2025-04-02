@@ -1,5 +1,0 @@
-2025-03-31 15:29:49,567 - INFO - Application starting
-2025-03-31 15:29:49,568 - ERROR - Sound file not found: C:\Users\Owner\Desktop\Projects\thwak\key.wav
-2025-03-31 15:30:03,038 - INFO - Application starting
-2025-03-31 15:30:03,039 - INFO - Found sound file: C:\Users\Owner\Desktop\Projects\thwak\key.wav
-2025-03-31 15:30:03,040 - ERROR - Failed to set keyboard hook!
